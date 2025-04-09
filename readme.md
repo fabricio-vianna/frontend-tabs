@@ -21,3 +21,7 @@ Estilo visual limpo e moderno
 📸 Imagem 
 
 ![preview]("https://github.com/fabricio-vianna/frontend-tabs/blob/main/frontend_tabs.png?raw=true") 
+
+📚 Inspiração
+
+Este projeto foi inspirado nas aulas do curso do Daniel Tapias. Agradeço pelo conteúdo compartilhado e pelos ensinamentos!
