@@ -19,8 +19,7 @@ Cards organizados em grade
 Estilo visual limpo e moderno
 
 📸 Imagem 
-
-![preview]("https://github.com/fabricio-vianna/frontend-tabs/blob/main/frontend_tabs.png?raw=true") 
+![Preview](https://github.com/user-attachments/assets/eec66db6-d11f-4536-853b-5ff39214101e)
 
 📚 Inspiração
 
