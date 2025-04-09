@@ -20,4 +20,4 @@ Estilo visual limpo e moderno
 
 📸 Imagem 
 
-![preview]("https://github.com/fabricio-vianna/frontend-tabs/blob/main/frontend_tabs.png?raw=true") 
+![preview][("https://github.com/fabricio-vianna/frontend-tabs/blob/main/frontend_tabs.png?raw=true") ](https://github.com/fabricio-vianna/frontend-tabs/blob/main/frontend_tabs.png?raw=true)
