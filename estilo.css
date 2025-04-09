@@ -1,0 +1,68 @@
+body {
+    background: url(Imagens/bg-2.jpg);
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: arial;
+    text-align: center;
+    margin: auto;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 60px;
+    text-shadow: 2px 2px 1px black;
+    margin-top: 50px;
+}
+
+.text {
+    font-size: 18px;
+    width: 450px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+    border-bottom: 1px solid white;
+}
+
+.container {
+    background-color: white;
+    margin: 50px auto auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    max-width: 880px;
+    gap: 15px; 
+    padding: 15px 15px;
+
+    align-items: flex-start;
+    justify-content: center;
+
+    background-size: contain;
+}
+
+
+.container div {
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    align-items: center;
+    flex: 1;
+}
+
+.container_type__img {
+    width: 270px;
+    height: 170px;
+}
+
+.behind {
+    background-color: rgba(29, 28, 28, 0.94);
+    width: 254px;
+    font-size: 18px;
+    padding: 8px;
+}
+
+a.behind  {
+    text-decoration: none;
+    color: white;
+}
